@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+An elixir bootcamp that I did. https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/
 
 ## Installation
 
