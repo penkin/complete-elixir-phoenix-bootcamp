@@ -2,20 +2,11 @@
 
 An elixir bootcamp that I did. https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/
 
-## Installation
+## Sections 1-5
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `cards` to your list of dependencies in `mix.exs`:
+- Section 1: An Elixir Warmup
+- Section 2: Elixir's Amazing Pattern Matching
+- Section 3: Testing and Documentation
+- Section 4: A Few Side Topics
 
-```elixir
-def deps do
-  [
-    {:cards, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/cards>.
-
+These sections were covered with the [cards project](cards/README.md)
