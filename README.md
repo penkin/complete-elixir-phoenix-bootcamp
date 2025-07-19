@@ -1,6 +1,6 @@
-# Cards
+# Complete Elixir & Phoenix Bootcamp
 
-An elixir bootcamp that I did. https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/
+This repo holds all the code and projects from the [Complete Elixir & Phoenix Bootcamp course on Udemy](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/).
 
 ## Sections 1-5
 
